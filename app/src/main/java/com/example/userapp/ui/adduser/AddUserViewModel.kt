@@ -1,4 +1,4 @@
-package com.example.userapp.ui.users.adduser
+package com.example.userapp.ui.adduser
 
 import androidx.core.util.PatternsCompat
 import androidx.lifecycle.LiveData

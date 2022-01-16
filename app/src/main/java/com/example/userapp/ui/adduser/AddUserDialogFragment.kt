@@ -1,4 +1,4 @@
-package com.example.userapp.ui.users.adduser
+package com.example.userapp.ui.adduser
 
 import android.os.Bundle
 import android.view.LayoutInflater

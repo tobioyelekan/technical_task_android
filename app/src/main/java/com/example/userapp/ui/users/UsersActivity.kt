@@ -10,7 +10,7 @@ import com.example.userapp.R
 import com.example.userapp.data.helper.Resource
 import com.example.userapp.databinding.ActivityUsersBinding
 import com.example.userapp.model.User
-import com.example.userapp.ui.users.adduser.AddUserDialogFragment
+import com.example.userapp.ui.adduser.AddUserDialogFragment
 import com.example.userapp.utils.show
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import dagger.hilt.android.AndroidEntryPoint

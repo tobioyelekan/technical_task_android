@@ -2,7 +2,6 @@ package com.example.userapp.ui.adduser
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import com.example.userapp.model.User
-import com.example.userapp.ui.users.adduser.AddUserViewModel
 import com.example.userapp.util.getOrAwaitValue
 import org.hamcrest.CoreMatchers.`is`
 import org.hamcrest.MatcherAssert.assertThat
