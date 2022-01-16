@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="hint_enter_name">enter name</string>
+    <string name="hint_enter_email">enter email</string>
+    <string name="label_select_gender">Select gender</string>
+    <string name="label_male_gender">Male</string>
+    <string name="label_female_gender">Female</string>
+    <string name="btn_add_user">Add User</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="ask_delete_user">Are you sure you want to remove this user?</string>
+    <string name="label_loading">Please wait…</string>
+</resources>

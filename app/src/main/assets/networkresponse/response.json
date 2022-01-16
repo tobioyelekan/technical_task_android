@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "pagination": {
+      "total": 1711,
+      "pages": 86,
+      "page": 1,
+      "limit": 20,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 2110,
+      "name": "swati",
+      "email": "swati@ferry.biz",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 24,
+      "name": "Suryakanta Bhat",
+      "email": "suryakanta_bhat@gleason.io",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 26,
+      "name": "Dr. Gangesh Mahajan",
+      "email": "dr_gangesh_mahajan@heaney.info",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 27,
+      "name": "Bankim Pothuvaal",
+      "email": "bankim_pothuvaal@kohler.name",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 28,
+      "name": "Vasudev Deshpande",
+      "email": "vasudev_deshpande@yost-hudson.biz",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 29,
+      "name": "Bhishma Shah",
+      "email": "shah_bhishma@schiller.org",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 31,
+      "name": "Ganak Varma",
+      "email": "varma_ganak@hilll.co",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 32,
+      "name": "Soma Abbott",
+      "email": "soma_abbott@prosacco.info",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 33,
+      "name": "Dinkar Asan",
+      "email": "asan_dinkar@beatty.name",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 35,
+      "name": "Sen. Anand Gandhi",
+      "email": "sen_gandhi_anand@mante-hammes.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 36,
+      "name": "Mahesh Pilla DC",
+      "email": "dc_mahesh_pilla@hodkiewicz.com",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 38,
+      "name": "Lila Shukla",
+      "email": "shukla_lila@kuhn.biz",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 39,
+      "name": "Devadatt Pothuvaal III",
+      "email": "devadatt_iii_pothuvaal@ankunding.info",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 40,
+      "name": "Deepan Nambeesan",
+      "email": "deepan_nambeesan@gleason-casper.info",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 41,
+      "name": "Jahnu Chattopadhyay",
+      "email": "jahnu_chattopadhyay@leffler.io",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 42,
+      "name": "Vidur Nair",
+      "email": "nair_vidur@ortiz.info",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 43,
+      "name": "Durgeshwari Rana Esq.",
+      "email": "durgeshwari_esq_rana@emmerich.info",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 44,
+      "name": "Kalpana Mahajan",
+      "email": "mahajan_kalpana@quitzon.org",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 45,
+      "name": "Balachandra Kaniyar",
+      "email": "balachandra_kaniyar@davis.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 46,
+      "name": "Miss Satish Gill",
+      "email": "miss_gill_satish@torphy-lakin.io",
+      "gender": "female",
+      "status": "inactive"
+    }
+  ]
+}
